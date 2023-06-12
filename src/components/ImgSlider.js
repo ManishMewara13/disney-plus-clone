@@ -39,7 +39,7 @@ const Carousel = styled(Slider)`
     }
 
     li.slick-active button::before {
-        color: white;
+        color: red;
     }
 
     .slick-list {
@@ -47,14 +47,14 @@ const Carousel = styled(Slider)`
     }
 
     button {
-        z-index: 1;
+        z-index: 10;
     }
 `
 
 const Wrap = styled.div`
     img {
         border: 4px solid transparent;
-        border-radius: 4px;
+        border-radius: 20px;
         width: 100%:
         height: 100%;   
         box-shadow: rgb(0 0 0/ 69%) 0px 26px 30px -10px,
