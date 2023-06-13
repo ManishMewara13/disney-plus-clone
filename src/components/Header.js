@@ -75,7 +75,7 @@ const NavMenu = styled.div`
       font-size: 13px;
       letter-spacing: 1.42px;
       position: relative;
-      overflow-x: hidden;
+      // overflow-x: hidden;
 
       &:after{
         content: "";
