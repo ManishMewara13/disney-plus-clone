@@ -21,7 +21,7 @@ function Detail() {
           <span>Trailer</span>
         </TrailerButton>
           <img src="/images/play-icon-white.png" />
-          <span>Trailer</span>
+          <span>TrailerButton</span>
         <AddButton>
           <img src="/images/" />
         </AddButton>
